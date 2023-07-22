@@ -1,0 +1,22 @@
+# frontend  Logs
+logs
+*.log
+go_everything_frontend/pnpm-debug.log*
+go_everything_frontend/pnpm-lock.yaml
+
+# frontend
+go_everything_frontend/node_modules
+go_everything_frontend/dist
+go_everything_frontend/dist-ssr
+dist
+
+# frontend Editor directories and files
+go_everything_frontend/.vscode/*
+go_everything_frontend/.idea
+
+# backend
+.idea
+*.db
+*.exe
+
+
